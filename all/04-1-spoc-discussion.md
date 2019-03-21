@@ -130,7 +130,7 @@ re_os_lab, v9_cpu, os_course_spoc_exercises 　in github repos。这样可以在
 
 2. 虚拟页式存储管理中有效存储访问时间是如何计算的？
 
-**EAT=访存时间*(1-p)+ 缺页处理时间* p，其中p表示缺页率。**
+**EAT=访存时间 * (1-p)+ 缺页处理时间* p，其中p表示缺页率。**
 
 
 ## 个人思考题
